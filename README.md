@@ -1,0 +1,1 @@
+# smartgit-license-comparison
